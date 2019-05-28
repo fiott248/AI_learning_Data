@@ -6,4 +6,4 @@
 
 ## Co worked  with
 
-[Steve]: <https://github.com/smabela>
+[Steve Abela](https://github.com/smabela)

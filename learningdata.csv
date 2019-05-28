@@ -1,0 +1,10 @@
+ClickXPos, ClickYPos, Scroll, Time2Click, Agent, IPAddress, TZone, Language, Fonts, Cookies, Session, Resolution, ColorDepth, Bot
+120, 120, True, 12, "Mozilla", "192.0.168.1", "GMT +2:00", "English UK", True, True, True, "1920 X 960", "8-bit", False
+140, 110, True, 12, "Mozilla", "192.0.168.1", "GMT +3:00", "English UK", True, True, True, "1920 X 960", "16-bit", False
+120, 120, True, 12, "Mozilla", "192.0.168.1", "GMT +2:00", "English UK", True, True, True, "1920 X 960", "16-bit", False
+120, 120, True, 12, "Mozilla", "192.0.168.1", "GMT +1:00", "English UK", True, True, True, "1920 X 960", "16-bit", False
+0, 0, False, 5, "Mozilla", "190.0.170.10", "GMT +2:00", "English UK", True, True, False, "1920 X 960", "16-bit", True
+10, 10, False, 1, "Chrome OS", "190.0.170.10", "GMT +2:00", "English US", True, False, False, "1920 X 960", "16-bit", True
+100, 120, True, 12, "Chrome OS", "192.0.168.1", "GMT +2:00", "English UK", True, True, True, "1920 X 960", "8-bit", False
+120, 120, True, 12, "Mozilla", "192.0.168.1", "GMT +2:00", "English US", False, True, True, "1920 X 960", "8-bit", False
+340, 1000, True, 1, "Chrome OS", "191.0.176.20", "GMT +4:00", "English US", False, False, False, "1920 X 960", "32-bit", True
